@@ -27,7 +27,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "npx json-server --watch db.json -p 3001 -d 2000",
+    "start": "json-server --watch db.json -p 3001 -d 2000",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
