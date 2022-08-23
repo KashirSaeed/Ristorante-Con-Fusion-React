@@ -63,4 +63,7 @@ address{
   .contentHider {
      display: none;
   }
+  .myImages {
+      text-align: center;
+  }
 }

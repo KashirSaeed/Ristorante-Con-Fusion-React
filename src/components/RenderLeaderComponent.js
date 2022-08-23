@@ -4,7 +4,7 @@ import { Media } from "reactstrap";
 function RenderLeader({ leaderName, leaderDesignation, leaderDescription , leaderImage }) {
     return (
         <Media tag="li">
-                <Media left middle>
+                <Media left middle className="myImages" >
                     <Media object src={leaderImage} alt={leaderName} />
                 </Media>
                 <Media body className="ml-5 contentHider">
