@@ -1,1 +1,1 @@
-export const baseURL = "https://connectingjsonserver.herokuapp.com/api";
+export const baseURL = "https://connectingjsonserver.herokuapp.com/";
